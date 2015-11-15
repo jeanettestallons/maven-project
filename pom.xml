@@ -171,6 +171,8 @@
 			<version>${mule.version}</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- added automatically -->
 		<dependency>
 			<groupId>org.mule.modules</groupId>
 			<artifactId>mule-module-spring-config</artifactId>
