@@ -138,6 +138,7 @@
 			<version>${mule.version}</version>
 			<scope>provided</scope>
 		</dependency>
+		
 		<!-- Mule Modules -->
 		<dependency>
 			<groupId>org.mule.modules</groupId>
