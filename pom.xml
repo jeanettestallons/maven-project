@@ -173,6 +173,7 @@
 			<artifactId>activemq-kahadb-store</artifactId>
 			<version>5.12.1</version>
 		</dependency>
+		
 		<!-- for testing -->
 		<dependency>
 			<groupId>org.mule.tests</groupId>
